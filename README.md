@@ -1,5 +1,7 @@
 # Skyrim Auto-Enchanting Grinder
 
+**Published mod:** [Auto Enchanting Grinder on Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/44968)
+
 This utility is written in AutoHotkey to automate the repetitive process of enchanting large numbers of items in Skyrim.
 
 Rather than modifying Skyrim's enchanting system, the program works externally by controlling the game's existing user interface. The user identifies the menu positions of the item, enchantment, and soul gem to use, and the script handles the repeated navigation, selection, confirmation, and menu transitions required to enchant the requested number of items.
